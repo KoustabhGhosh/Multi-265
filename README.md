@@ -11,7 +11,7 @@ You can run the program either by
 
     1. gcc -g *.c -c       
     
-    2. gcc -mfpu=neon -c Nh-mine.s -o Nh-mine.o
+    2. gcc -mfpu=neon -c Multi265.s -o Multi265.o
     
     3. gcc -g -o output *.o
     
