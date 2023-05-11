@@ -8,10 +8,10 @@ You can run the program either by
 1- Simply run make output '' to compile all the source files, create the object files, link them and generate the final executable named output. Then.\output'' will run the executable file. 
 
 2- Compiling and linking the source files by following commands, 
-    1- gcc -g *.c -c
-    2- gcc -mfpu=neon -c Nh-mine.s -o Nh-mine.o
-    3- gcc -g -o output *.o
-    4- ./ouput
+    1. gcc -g *.c -c
+    2. gcc -mfpu=neon -c Nh-mine.s -o Nh-mine.o
+    3. gcc -g -o output *.o
+    4. ./output
 
 Note: Please make sure you have gcc installed on your Raspberry Pi 2. 
 
