@@ -15,6 +15,7 @@ You can run the program either by
 
 Note: Please make sure you have gcc installed on your Raspberry Pi 2. 
 
-BranchNo6Matrix.sage is the sage code used to find suitable 6 x 6 matrices with good diffusion properties
+BranchNo6Matrix.sage is the sage code used to find suitable 6 x 6 matrices with good diffusion properties.
+
 Multi-265.py is the python code for the multi-265 key-then-hash function.
 
