@@ -5,7 +5,7 @@ Authors: Koustabh Ghosh, Jonathan Fuchs, Parisa Amiri Eliasi, Joan Daemen.
 The code is written for ARMv7A architecture, and is tested on the Raspberry Pi 2. Multi265.s file is our main implementation for multi265.
 You can run the program either by 
 
-1- Simply run make output'' to compile all the source files, create the object files, link them and generate the final executable named output. Then.\output'' will run the executable file. 
+1- Simply run make output '' to compile all the source files, create the object files, link them and generate the final executable named output. Then.\output'' will run the executable file. 
 
 2- Compiling and linking the source files by following commands, 
     1- gcc -g *.c -c
